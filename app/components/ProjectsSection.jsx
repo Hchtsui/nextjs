@@ -64,7 +64,7 @@ const projectsData = [
     id: 7,
     title: "Shushi website",
     description:
-      "Project 7 website for a sushi restaurant this code u cant see how it looks but only the code",
+      "Project 7 website for a sushi restaurant this project is made in a lolcalhost",
     image: "/images/projects/image7.png",
     tag: ["All", "Web"],
     gitUrl:
@@ -86,7 +86,7 @@ const projectsData = [
     id: 9,
     title: "webshop",
     description:
-      "Project 9 website selling products for clothing for a school project (currently working on it)",
+      "Project 9 website for selling products for clothing (currently working on it)",
     image: "/images/projects/image9.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Hchtsui/p7_Creative_Creativity.git",

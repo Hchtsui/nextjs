@@ -63,11 +63,11 @@ export const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4 ">About Me</h2>
           <p className="text-base lg:text-lg">
-            i am currently a student at the ROC Mondriaan in The Hague, where I
-            am studying to become a full stack developer. I am passionate about
-            web development and design. i am currently a student and still
-            learing how everything works. i have experience with HTML, CSS, PHP
-            and Bootstrap, Symfony and currently learnig React and Next.js
+            I am currently a student at ROC Mondriaan in The Hague, studying to
+            become a full-stack developer. My passion lies in web development
+            and design. I have hands-on experience with HTML, CSS, PHP, and
+            Bootstrap, as well as Symfony. Currently, I am expanding my skills
+            by learning React and Next.js.
           </p>
           <div className="flex flex-row mt-8 justify-start">
             <TabButton
