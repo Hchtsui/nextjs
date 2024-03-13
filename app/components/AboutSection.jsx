@@ -12,6 +12,7 @@ const TAB_DATA = [
         <li>HTML</li>
         <li>CSS</li>
         <li>PHP</li>
+        <li>JavaScript</li>
         <li>Bootstrap</li>
         <li>Symfony</li>
         <li>React</li>
