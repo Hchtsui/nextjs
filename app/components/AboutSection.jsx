@@ -66,9 +66,9 @@ export const AboutSection = () => {
           <p className="text-base lg:text-lg">
             I am currently a student at ROC Mondriaan in The Hague, studying to
             become a full-stack developer. My passion lies in web development
-            and design. I have hands-on experience with HTML, CSS, PHP, and
-            Bootstrap, as well as Symfony. Currently, I am expanding my skills
-            by learning React and Next.js.
+            and design. I have hands-on experience with HTML, CSS, JavaScript,
+            PHP, and Bootstrap, as well as Symfony. Currently, I am expanding my
+            skills by learning React and Next.js.
           </p>
           <div className="flex flex-row mt-8 justify-start">
             <TabButton
